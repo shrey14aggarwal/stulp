@@ -1,0 +1,307 @@
+[
+  {
+    "cmd": "insert_pflicht",
+    "pflichteintrag": {
+      "kursID": "MOD",
+      "studiengangsID": "ib1mpo1",
+      "kursname": "Modellierung",
+      "alternativgruppe": "-",
+      "pflichtfach": "ja",
+      "veranstaltungsteil": 1
+    }
+  },
+  {
+    "cmd": "insert_pflicht",
+    "pflichteintrag": {
+      "kursID": "MOD",
+      "studiengangsID": "ib1mpo1",
+      "kursname": "Modellierung",
+      "alternativgruppe": "Üb",
+      "pflichtfach": "nein",
+      "veranstaltungsteil": 2
+    }
+  },
+  {
+    "cmd": "insert_pflicht",
+    "pflichteintrag": {
+      "kursID": "MOD",
+      "studiengangsID": "ib1mpo1",
+      "kursname": "Modellierung",
+      "alternativgruppe": "Üb",
+      "pflichtfach": "nein",
+      "veranstaltungsteil": 3
+    }
+  },
+  {
+    "cmd": "insert_pflicht",
+    "pflichteintrag": {
+      "kursID": "GP",
+      "studiengangsID": "ib1mpo1",
+      "kursname": "Programmierung",
+      "alternativgruppe": "-",
+      "pflichtfach": "ja",
+      "veranstaltungsteil": 1
+    }
+  },
+  {
+    "cmd": "insert_pflicht",
+    "pflichteintrag": {
+      "kursID": "GP",
+      "studiengangsID": "ib1mpo1",
+      "kursname": "Programmierung",
+      "alternativgruppe": "Üb",
+      "pflichtfach": "nein",
+      "veranstaltungsteil": 2
+    }
+  },
+  {
+    "cmd": "insert_pflicht",
+    "pflichteintrag": {
+      "kursID": "GP",
+      "studiengangsID": "ib1mpo1",
+      "kursname": "Programmierung",
+      "alternativgruppe": "Üb",
+      "pflichtfach": "nein",
+      "veranstaltungsteil": 3
+    }
+  },
+  {
+    "cmd": "insert_pflicht",
+    "pflichteintrag": {
+      "kursID": "GP",
+      "studiengangsID": "ib1npo1",
+      "kursname": "Programmierung",
+      "alternativgruppe": "-",
+      "pflichtfach": "ja",
+      "veranstaltungsteil": 1
+    }
+  },
+  {
+    "cmd": "insert_pflicht",
+    "pflichteintrag": {
+      "kursID": "GP",
+      "studiengangsID": "ib1npo1",
+      "kursname": "Programmierung",
+      "alternativgruppe": "Üb",
+      "pflichtfach": "nein",
+      "veranstaltungsteil": 2
+    }
+  },
+  {
+    "cmd": "insert_pflicht",
+    "pflichteintrag": {
+      "kursID": "GP",
+      "studiengangsID": "ib1npo1",
+      "kursname": "Programmierung",
+      "alternativgruppe": "Üb",
+      "pflichtfach": "nein",
+      "veranstaltungsteil": 3
+    }
+  },
+  {
+    "cmd": "insert_pflicht",
+    "pflichteintrag": {
+      "kursID": "SE",
+      "studiengangsID": "ib1mpo1",
+      "kursname": "Software Entwurf",
+      "alternativgruppe": "-",
+      "pflichtfach": "ja",
+      "veranstaltungsteil": 1
+    }
+  },
+  {
+    "cmd": "insert_pflicht",
+    "pflichteintrag": {
+      "kursID": "SE",
+      "studiengangsID": "ib1mpo1",
+      "kursname": "Software Entwurf",
+      "alternativgruppe": "Üb",
+      "pflichtfach": "nein",
+      "veranstaltungsteil": 2
+    }
+  },
+  {
+    "cmd": "insert_pflicht",
+    "pflichteintrag": {
+      "kursID": "SE",
+      "studiengangsID": "ib1npo1",
+      "kursname": "Software Entwurf",
+      "alternativgruppe": "-",
+      "pflichtfach": "ja",
+      "veranstaltungsteil": 1
+    }
+  },
+  {
+    "cmd": "insert_pflicht",
+    "pflichteintrag": {
+      "kursID": "SE",
+      "studiengangsID": "ib1npo1",
+      "kursname": "Software Entwurf",
+      "alternativgruppe": "Üb",
+      "pflichtfach": "nein",
+      "veranstaltungsteil": 2
+    }
+  },
+  {
+    "cmd": "insert_pflicht",
+    "pflichteintrag": {
+      "kursID": "EBKFS",
+      "studiengangsID": "ib1npo1",
+      "kursname": "Software Entwurf",
+      "alternativgruppe": "-",
+      "pflichtfach": "ja",
+      "veranstaltungsteil": 1
+    }
+  },
+  {
+    "cmd": "insert_pflicht",
+    "pflichteintrag": {
+      "kursID": "EBKFS",
+      "studiengangsID": "ib1npo1",
+      "kursname": "Software Entwurf",
+      "alternativgruppe": "Üb",
+      "pflichtfach": "nein",
+      "veranstaltungsteil": 2
+    }
+  },
+  {
+    "cmd": "insert",
+    "veranstaltungseintrag": {
+      "raumNr": "L1",
+      "profID": "Kleine-Büning",
+      "kursID": "MOD",
+      "veranstaltungart": "Vorlesung",
+      "tag": "Mo",
+      "veranstaltungsteil": 1,
+      "dauer": 2,
+      "uhrzeit": 9,
+      "wunschzeit": 1
+    }
+  },
+  {
+    "cmd": "insert",
+    "veranstaltungseintrag": {
+      "raumNr": "L1",
+      "profID": "Kleine-Büning",
+      "kursID": "MOD",
+      "veranstaltungart": "Übung",
+      "tag": "Di",
+      "veranstaltungsteil": 2,
+      "dauer": 2,
+      "uhrzeit": 14,
+      "wunschzeit": 1
+    }
+  },
+  {
+    "cmd": "insert",
+    "veranstaltungseintrag": {
+      "raumNr": "L1",
+      "profID": "Kleine-Büning",
+      "kursID": "MOD",
+      "veranstaltungart": "Übung",
+      "tag": "Di",
+      "veranstaltungsteil": 3,
+      "dauer": 2,
+      "uhrzeit": 16,
+      "wunschzeit": 1
+    }
+  },
+  {
+    "cmd": "insert",
+    "veranstaltungseintrag": {
+      "raumNr": "L1",
+      "profID": "Böttcher",
+      "kursID": "GP",
+      "veranstaltungart": "Vorlesung",
+      "tag": "Di",
+      "veranstaltungsteil": 1,
+      "dauer": 2,
+      "uhrzeit": 14,
+      "wunschzeit": 1
+    }
+  },
+  {
+    "cmd": "insert",
+    "veranstaltungseintrag": {
+      "raumNr": "L1",
+      "profID": "Böttcher",
+      "kursID": "GP",
+      "veranstaltungart": "Übung",
+      "tag": "Di",
+      "veranstaltungsteil": 2,
+      "dauer": 2,
+      "uhrzeit": 16,
+      "wunschzeit": 1
+    }
+  },
+  {
+    "cmd": "insert",
+    "veranstaltungseintrag": {
+      "raumNr": "L1",
+      "profID": "Böttcher",
+      "kursID": "GP",
+      "veranstaltungart": "Übung",
+      "tag": "Mo",
+      "veranstaltungsteil": 3,
+      "dauer": 2,
+      "uhrzeit": 9,
+      "wunschzeit": 1
+    }
+  },
+  {
+    "cmd": "insert",
+    "veranstaltungseintrag": {
+      "raumNr": "L3",
+      "profID": "Sauer",
+      "kursID": "SE",
+      "veranstaltungart": "Vorlesung",
+      "tag": "Mi",
+      "veranstaltungsteil": 1,
+      "dauer": 2,
+      "uhrzeit": 16,
+      "wunschzeit": 1
+    }
+  },
+  {
+    "cmd": "insert",
+    "veranstaltungseintrag": {
+      "raumNr": "L3",
+      "profID": "Sauer",
+      "kursID": "SE",
+      "veranstaltungart": "Übung",
+      "tag": "Di",
+      "veranstaltungsteil": 2,
+      "dauer": 2,
+      "uhrzeit": 16,
+      "wunschzeit": 1
+    }
+  },
+  {
+    "cmd": "insert",
+    "veranstaltungseintrag": {
+      "raumNr": "L3",
+      "profID": "Sauer",
+      "kursID": "EBKFS",
+      "veranstaltungart": "Vorlesung",
+      "tag": "Mo",
+      "veranstaltungsteil": 1,
+      "dauer": 2,
+      "uhrzeit": 9,
+      "wunschzeit": 1
+    }
+  },
+  {
+    "cmd": "insert",
+    "veranstaltungseintrag": {
+      "raumNr": "L3",
+      "profID": "Sauer",
+      "kursID": "EBKFS",
+      "veranstaltungart": "Übung",
+      "tag": "Di",
+      "veranstaltungsteil": 2,
+      "dauer": 2,
+      "uhrzeit": 14,
+      "wunschzeit": 1
+    }
+  }
+]
